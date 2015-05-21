@@ -5,7 +5,7 @@
         "name": "GedasTheEvil/LaravelTranslationCheck",
         "version": "0.0.1",
         "dist": {
-          "url": "https://github.com/GedasTheEvil/laravel-translation-check/blob/master/dist/latest.zip",
+          "url": "https://github.com/GedasTheEvil/laravel-translation-check/raw/master/dist/build-0.0.1.zip",
           "type": "zip"
         }
       }
